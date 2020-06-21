@@ -19,7 +19,7 @@ Tested Versions Kubernetes v1.15.5 and v1.16.x and v1.17.4
   - create a API Token and set in "env/values.yaml"
   - edit the values in "env/values.yaml"
 
-## Create Infrastructure Ansible Playbook Terrafom Module
+## Create Infrastructure Ansible Playbook Terraform Module
 ```bash
 ansible-playbook create-infrastructure.yaml
 ```
